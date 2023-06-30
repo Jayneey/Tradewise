@@ -9,14 +9,19 @@ Admin Dashboard: An intuitive admin dashboard will be available for site adminis
 
 Payment Gateway: Secure payment options will be integrated to facilitate smooth and secure transactions. <p/>...and many more
 
+## Technologies Used
+<p/>Tailwind css
+<p/>Headless ui
+<p/>API's: RapidAPI cars by API-Ninja
+
 ## Contribution Guidelines
 We welcome contributions from the open-source community to enhance the TRADEWIZE E-commerce Website Project. If you would like to contribute, please follow these guidelines:
 
-  Fork the repository.
-  <p/>Create a new branch for your feature: git checkout -b feature-name
-  <p/>Implement your changes and test thoroughly.
-  <p/>Commit and push your changes to your forked repository.
-  <p/>Submit a pull request with a detailed description of your changes.
+Fork the repository.
+<p/>Create a new branch for your feature: git checkout -b feature-name
+<p/>Implement your changes and test thoroughly.
+<p/>Commit and push your changes to your forked repository.
+<p/>Submit a pull request with a detailed description of your changes.
 
 # License
 The TRADEWIZE E-commerce Website Project is released under the MIT License. Feel free to use, modify, and distribute the project according to the terms of this license.
