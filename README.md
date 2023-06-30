@@ -1,4 +1,4 @@
-## TRADEWIZE 
+## TRADEWISE 
 Welcome to the repository for TRADEWIZE, an e-commerce website carried out in fulfillment of ALX Webstack Portfolio Project
 
 
