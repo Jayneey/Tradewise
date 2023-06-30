@@ -1,10 +1,10 @@
 ## TRADEWISE 
-Welcome to the repository for TRADEWIZE, an e-commerce website carried out in fulfillment of ALX Webstack Portfolio Project
+Welcome to the repository for TRADEWIZE, an e-commerce website carried out in fulfillment of the ALX Webstack Portfolio Project
 
 
 ## Technologies Used
 <p/>Tailwind css 
-<p/>Headlessui for components like Combo box Dropdown .....
+<p/>HeadlessUI for components like Combo box Dropdown .....
 APIs: RapidAPI to get Car Informations  {https://www.imagin.studio/car-image-api}
       Imagin Studio to get Cars images  {https://www.imagin.studio/car-image-api}
 
@@ -23,6 +23,6 @@ The TradeWize E-Commerce Website Project is released under the MIT License. Feel
 # AUTHORS
 Oluwayemisi Nyaaku ( nyaakuyemisi@gmail.com )
 Divine Ifechukwude (difebi14@gmail.com) (https://github.com/Ebi-Tech)
-Jane 
+Jane Affamuefuna (affamuefuna.jane@yandex.com) (https://github.com/Jayneey)
 Paul Ogbonna (https://github.com/AcerNg548)
 
