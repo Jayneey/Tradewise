@@ -1,7 +1,6 @@
 ## TRADEWIZE 
 Welcome to the repository for TRADEWIZE, an e-commerce website carried out in fulfillment of ALX Webstack Portfolio Project
-<p/>Some features you can find here include:
-Cars Information
+
 
 ## Technologies Used
 <p/>Tailwind css 
